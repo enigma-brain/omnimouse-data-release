@@ -168,7 +168,7 @@ Click a box to open the BibTeX citation.
   </div>
   <div class="cite-dialog-body">
     <p>Main dataset DOI.</p>
-    <pre><code id="bibtex-doi">
+    <pre><code id="bibtex-sxl">
     TBA
     </code></pre>
   </div>
@@ -183,7 +183,7 @@ Click a box to open the BibTeX citation.
     </div>
   </div>
   <div class="cite-dialog-body">
-    <p>Original source for the novel OmniMouse subset</p>
+    <p>Original source citation for the OmniMouse subset.</p>
     <pre><code id="bibtex-om">@inproceedings{
       willeke2026omnimouse,
       title={OmniMouse: Scaling properties of multi-modal, multi-task Brain Models on 150B Neural Tokens},
@@ -249,12 +249,13 @@ Click a box to open the BibTeX citation.
   </div>
   <div class="cite-dialog-body">
     <p>Original source citation for the Funccon subset.</p>
-    <pre><code id="bibtex-funccon">@article{microns2025functional,
-  title={Functional connectomics spanning multiple areas of mouse visual cortex},
+    <pre><code id="bibtex-funccon">@article{ding2025functional,
+  title={Functional connectomics reveals general wiring rule in mouse visual cortex},
+  author={Ding, Zhuokun and Fahey, Paul G and Papadopoulos, Stelios and Wang, Eric Y and Celii, Brendan and Papadopoulos, Christos and Chang, Andersen and Kunin, Alexander B and Tran, Dat and Fu, Jiakun and others},
   journal={Nature},
   volume={640},
   number={8058},
-  pages={435--447},
+  pages={459--469},
   year={2025},
   publisher={Nature Publishing Group UK London}
 }</code></pre>
@@ -274,7 +275,7 @@ Click a box to open the BibTeX citation.
     <pre><code id="bibtex-orimap">@article{fahey2019global,
   title={A global map of orientation tuning in mouse visual cortex},
   author={Fahey, Paul G and Muhammad, Taliah and Smith, Cameron and Froudarakis, Emmanouil and Cobos, Erick and Fu, Jiakun and Walker, Edgar Y and Yatsenko, Dimitri and Sinz, Fabian H and Reimer, Jacob and others},
-  journal={BioRXiv},
+  journal={bioRxiv},
   pages={745323},
   year={2019},
   publisher={Cold Spring Harbor Laboratory}

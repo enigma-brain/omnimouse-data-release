@@ -180,7 +180,7 @@ All experiments were conducted in awake, head-fixed mice and approved by the Ins
     </h2>
   </div>
   <div class="om-card__body" markdown>
-  Enigma-Mouse combines newly recorded data with prior recordings from other projects (sub-datasets listed below). It was introduced in the OmniMouse paper by Willeke et al. in 2026 and is published here as the Enigma-Mouse dataset with it's own DOI.
+  Enigma-Mouse combines newly recorded data with prior recordings from other projects (sub-datasets listed below). It was introduced in the OmniMouse paper by Willeke et al. in 2026 and is published here as the Enigma-Mouse dataset with its own DOI.
 
   <dl class="om-dl">
     <dt>Source</dt>
@@ -279,7 +279,7 @@ All experiments were conducted in awake, head-fixed mice and approved by the Ins
   <div class="om-card__head">
     <h2>
       Functional connectomics spanning multiple areas of mouse visual cortex
-      <a href="#" class="bibtex-link" onclick="document.getElementById('cite-funccon').showModal(); return false;">BibTeX</a>
+      <a href="#" class="bibtex-link" onclick="document.getElementById('cite-platinum').showModal(); return false;">BibTeX</a>
     </h2>
   </div>
   <div class="om-card__body" markdown>
@@ -292,10 +292,10 @@ All experiments were conducted in awake, head-fixed mice and approved by the Ins
     <dd class="om-doi"><a href="https://doi.org/10.1038/s41586-025-08790-w">10.1038/s41586-025-08790-w</a></dd>
 
     <dt>Animals / recordings</dt>
-    <dd>1 behaving mice recorded over 12 sessions.</dd>
+    <dd>1 behaving mouse recorded over 12 sessions.</dd>
 
     <dt>Stimuli</dt>
-    <dd>Trained on natural videos and tested on held out natural videos as well as out of domain gratings.</dd>
+    <dd>Trained on natural videos and tested on held-out natural videos as well as out-of-domain gratings.</dd>
 
     <dt>Neural data</dt>
     <dd>Wide-field two-photon calcium imaging of excitatory neurons in layers 2–5 of right V1.</dd>
@@ -327,7 +327,7 @@ All experiments were conducted in awake, head-fixed mice and approved by the Ins
     <dd>6 behaving mice recorded over 7 sessions.</dd>
 
     <dt>Stimuli</dt>
-    <dd>Trained on natural videos and tested on held out natural videos as well as out of domain gratings.</dd>
+    <dd>Trained on natural videos and tested on held-out natural videos as well as out-of-domain gratings.</dd>
 
     <dt>Neural data</dt>
     <dd>Wide-field two-photon calcium imaging of excitatory neurons in layers 2–5 of right V1.</dd>
@@ -353,13 +353,13 @@ All experiments were conducted in awake, head-fixed mice and approved by the Ins
     <dd>Fahey et al., 2019 (A global map of orientation tuning in mouse visual cortex)</dd>
 
     <dt>DOI</dt>
-    <dd class="om-doi"><a href="https://doi.org/10.1038/10.1101/745323">10.1101/745323</a></dd>
+    <dd class="om-doi"><a href="https://doi.org/10.1101/745323">10.1101/745323</a></dd>
 
     <dt>Animals / recordings</dt>
     <dd>12 behaving mice recorded over 75 sessions.</dd>
 
     <dt>Stimuli</dt>
-    <dd>Trained on natural videos and tested on held out natural videos as well as out of domain gratings.</dd>
+    <dd>Trained on natural videos and tested on held-out natural videos as well as out-of-domain gratings.</dd>
 
     <dt>Neural data</dt>
     <dd>Wide-field two-photon calcium imaging of excitatory neurons in layers 2–5 of right V1.</dd>
@@ -382,16 +382,16 @@ All experiments were conducted in awake, head-fixed mice and approved by the Ins
   <div class="om-card__body" markdown>
   <dl class="om-dl">
     <dt>Source</dt>
-    <dd>Ding et al., 2026(Functional bipartite invariance in mouse primary visual cortex receptive fields)</dd>
+    <dd>Ding et al., 2026 (Functional bipartite invariance in mouse primary visual cortex receptive fields)</dd>
 
     <dt>DOI</dt>
-    <dd class="om-doi"><a href="https://doi.org/10.1038/10.1038/s41593-026-02213-3">10.1038/s41593-026-02213-3</a></dd>
+    <dd class="om-doi"><a href="https://doi.org/10.1038/s41593-026-02213-3">10.1038/s41593-026-02213-3</a></dd>
 
     <dt>Animals / recordings</dt>
     <dd>14 behaving mice recorded over 75 sessions.</dd>
 
     <dt>Stimuli</dt>
-    <dd>Trained on natural videos and tested on held out natural videos as well as out of domain gratings.</dd>
+    <dd>Trained on natural videos and tested on held-out natural videos as well as out-of-domain gratings.</dd>
 
     <dt>Neural data</dt>
     <dd>Wide-field two-photon calcium imaging of excitatory neurons in layers 2–5 of right V1.</dd>
@@ -423,7 +423,7 @@ All experiments were conducted in awake, head-fixed mice and approved by the Ins
     <dd>16 behaving mice (16 recording sessions). Eleven “pretraining” recordings are released for training/generalization; five recordings are reserved for held-out evaluation.</dd>
 
     <dt>Stimuli</dt>
-    <dd>Trained on natural videos and tested on held out natural videos as well as out of domain gratings.</dd>
+    <dd>Trained on natural videos and tested on held-out natural videos as well as out-of-domain gratings.</dd>
 
     <dt>Neural data</dt>
     <dd>Wide-field two-photon calcium imaging of excitatory neurons in layers 2–5 of right V1.</dd>
@@ -561,7 +561,7 @@ All experiments were conducted in awake, head-fixed mice and approved by the Ins
     <pre><code id="bibtex-orimap">@article{fahey2019global,
   title={A global map of orientation tuning in mouse visual cortex},
   author={Fahey, Paul G and Muhammad, Taliah and Smith, Cameron and Froudarakis, Emmanouil and Cobos, Erick and Fu, Jiakun and Walker, Edgar Y and Yatsenko, Dimitri and Sinz, Fabian H and Reimer, Jacob and others},
-  journal={BioRXiv},
+  journal={bioRxiv},
   pages={745323},
   year={2019},
   publisher={Cold Spring Harbor Laboratory}
