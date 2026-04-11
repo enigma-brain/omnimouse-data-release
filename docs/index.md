@@ -39,7 +39,7 @@ The **Enigma-Mouse dataset** is the largest single-neuron dataset to date. It co
 
     Python package for working with neuroscience recordings and stimuli, including interpolation utilities. Specifically designed for the dataformats of the Sensorium competitions and OmniMouse data.
 
--   [:material-github:{ .lg .middle } __Sensorium 2022 codebase__](https://github.com/sinzlab/sensorium)
+-   [:material-github:{ .lg .middle } __Sensorium 2022 codebase__](https://github.com/sinzlab/sensorium){:target="_blank"}
 
     Tutorials, baseline models, and notebooks to get started quickly.
 
