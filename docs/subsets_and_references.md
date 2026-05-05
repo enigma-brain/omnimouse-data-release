@@ -193,7 +193,7 @@ All experiments were conducted in awake, head-fixed mice and approved by the Ins
     <dd class="om-doi">TBA</dd>
 
     <dt>Animals / recordings</dt>
-    <dd>78 unique mice overall (some appear in both training and evaluation), with 4,210–11,284 neurons per session and &gt;3 million single-unit recordings in total.</dd>
+    <dd>78 unique mice overall (some appear in both training and evaluation), with 4,210–11,284 neurons per session and &gt;2.3 million single-unit recordings in total.</dd>
 
     <dt>Neural data</dt>
     <dd>Wide-field two-photon calcium imaging of excitatory neurons in layers 2–5 of right V1.</dd>
